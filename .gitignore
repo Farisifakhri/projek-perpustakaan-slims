@@ -55,3 +55,4 @@ config/env.php
 tarsius
 sysconfig.local.inc.php
 vendor/
+sample/demo_slip.zip
